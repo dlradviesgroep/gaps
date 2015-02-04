@@ -40,6 +40,11 @@ polyfills::method_name();
 ```
 
 
+## Contributing
+
+Pull Requests or issues are welcome!
+
+
 ## Licence
 
 MIT
