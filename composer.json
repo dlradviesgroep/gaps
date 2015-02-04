@@ -17,7 +17,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"gaps\\": "src/"
+			"alsvanzelf\\gaps\\": "src/"
 		}
 	}
 }

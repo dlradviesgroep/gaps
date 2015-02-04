@@ -1,6 +1,6 @@
 <?php
 
-namespace gaps;
+namespace alsvanzelf\gaps;
 
 class gaps {
 
