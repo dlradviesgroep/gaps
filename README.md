@@ -29,7 +29,7 @@ Start your file with
 
 ```php
 use alsvanzelf\gaps\gaps;
-use alsvanzelf\gaps\poyfills;
+use alsvanzelf\gaps\polyfills;
 ```
 
 And use the methods where you need:
