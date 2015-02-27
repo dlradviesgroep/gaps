@@ -10,7 +10,7 @@ Stop minding the gap. Extend php with these polyfills and missing functionality.
 
 #### Polyfilled
 
-*Nothing yet*
+- [`empty_expression()`](src/poyfills.php#L9): an `empty` which works on expressions (when below PHP 5.5.0)
 
 
 ## Installation
