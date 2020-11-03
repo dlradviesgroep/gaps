@@ -1,9 +1,9 @@
 {
-	"name": "alsvanzelf/gaps",
+	"name": "dlradviesgroep/gaps",
 	"type": "library",
 	"description": "Stop minding the gap. Extend php with these polyfills and missing functionality. Right now, `array_splice_preserve_keys`.",
 	"keywords": ["polyfill", "array_splice"],
-	"homepage": "https://github.com/lode/gaps",
+	"homepage": "https://github.com/dlradviesgroep/gaps",
 	"license": "MIT",
 	"authors": [
 		{
